@@ -20,7 +20,7 @@ namespace BoardGame
             Application.Run(new Form1());
 
             List <Square> masterList = null;//this must be created when you are making each board
-
+// I can do things
 //this is proof that we can edit
             //testing code
             Square testSquare = new Square(1,masterList);//instantiate first square
