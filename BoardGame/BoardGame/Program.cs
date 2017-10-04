@@ -21,7 +21,7 @@ namespace BoardGame
 
             List <Square> masterList = null;//this must be created when you are making each board
 
-
+//this is proof that we can edit
             //testing code
             Square testSquare = new Square(1,masterList);//instantiate first square
             Square testSquare2 = new Square(2,masterList); //instantiate second square
